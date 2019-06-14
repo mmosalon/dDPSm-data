@@ -1,0 +1,4 @@
+Last Update
+
+skills_ja.csv	2019/6/15 
+separate.xml	2019/6/15
