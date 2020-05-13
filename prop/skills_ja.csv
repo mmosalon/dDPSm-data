@@ -165,7 +165,7 @@
 通常攻撃(零式),2001359545,Melee,Sword 1st サクリファイスバイト零式
 通常攻撃(零式),2002747972,Melee,Sword 2nd サクリファイスバイト零式
 通常攻撃(零式),2084739075,Melee,Sword 3rd サクリファイスバイト零式
-通常攻撃(ソード),1331225593,Melee,Sword air first normal attack 
+通常攻撃(ソード),1331225593,Melee,"Sword air first normal attack "
 通常攻撃(ソード),1331225146,Melee,Sword air second normal attack
 通常攻撃(ソード),1331225211,Melee,Sword air third normal attack
 通常攻撃(零式),1351584013,Melee,Sword air first normal attack サクリファイスバイト零式
@@ -184,7 +184,7 @@
 ノヴァストライク,3096784224,PA,1st
 ノヴァストライク,3096784697,PA,2nd
 ノヴァストライク,3034360175,PA,3rd
-ノヴァストライク,3950438450,PA,Nova Strike uncharged 
+ノヴァストライク,3950438450,PA,"Nova Strike uncharged "
 ノヴァストライク,3950438451,PA,Nova Strike charge lv.1
 ノヴァストライク,3950438460,PA,Nova Strike charge lv.2
 ライドスラッシャー,1224723856,PA,
@@ -520,7 +520,7 @@ Tダガースピン,3115487272,Special,3 gear
 通常攻撃(カタナ),3146534752,Melee,Katana 1
 通常攻撃(カタナ),3146534691,Melee,Katana 2
 通常攻撃(カタナ),3146534882,Melee,Katana 3
-通常攻撃(カタナ),3103989825,Melee,Katana air first normal attack 
+通常攻撃(カタナ),3103989825,Melee,"Katana air first normal attack "
 通常攻撃(カタナ),3103990658,Melee,Katana air second normal attack
 通常攻撃(カタナ),3103990723,Melee,Katana air third normal attack
 ステアタ(カタナ),3106156042,Melee,Katana Step
@@ -565,9 +565,9 @@ Tダガースピン,3115487272,Special,3 gear
 グレンテッセン,1776976279,PA,グレンテッセン dash
 グレンテッセン,1522008442,PA,グレンテッセン slash
 カタナコンバット,4259442013,Special,Katana finish megaslash
-通常攻撃(デュアルブレード),990294516,Melee,DB 1st 
-通常攻撃(デュアルブレード),990294325,Melee,DB 2nd 
-通常攻撃(デュアルブレード),990294387,Melee,DB 3rd 
+通常攻撃(デュアルブレード),990294516,Melee,"DB 1st "
+通常攻撃(デュアルブレード),990294325,Melee,"DB 2nd "
+通常攻撃(デュアルブレード),990294387,Melee,"DB 3rd "
 通常攻撃(デュアルブレード),996054556,Melee,DB 1st air
 通常攻撃(デュアルブレード),996054749,Melee,DB 2nd air
 通常攻撃(デュアルブレード),996054686,Melee,DB 3rd air
@@ -1128,7 +1128,7 @@ SP射撃/速射,4205203418,Special,Mag action - 速射(R-ATK SP/Vulcan)
 ヘリクス・イメラ,1075221526,Special,PB Helix Imera aoe attack 0-chain
 ヘリクス・イメラ,1817839236,Special,PB Helix Imera first hit 1++-chain
 ヘリクス・イメラ,3826344072,Special,PB Helix Imera aoe attack 1+2-chain
-ヘリクス・イメラ,4211237222,Special,PB Helix Imera aoe attack 3-chain           
+ヘリクス・イメラ,4211237222,Special,"PB Helix Imera aoe attack 3-chain           "
 ヘリクス・ニフタ,3903398021,Special,PB Helix Nykta horn hit 0+1-chain
 ヘリクス・ニフタ,823402941,Special,PB Helix Nykta horn hit 2+3-chain
 ヘリクス・ニフタ,3627456031,Special,PB Helix Nykta landing hit 0+1-chain
@@ -1201,7 +1201,7 @@ DBステアタ(エルダー),3141577094,Melee,Dark Blast Step Attack
 インフィニティラッシュ,1697271546,PA,Infinity Rush finish charged
 タイラントストライク,1117313924,PA,Tyrant Strike
 ブーストキック,85301614,Special,Tokyo speed-pad kick level 1
-ブーストキック,85302964,Special,Tokyo speed-pad kick level 2 
+ブーストキック,85302964,Special,"Tokyo speed-pad kick level 2 "
 ブーストキック,85303029,Special,Tokyo speed-pad kick level 3
 ブーストキック,85301612,Special,Tokyo speed-pad kick level 1 on cars
 ブーストキック,85302966,Special,Tokyo speed-pad kick level 2 on cars
@@ -1299,7 +1299,7 @@ AIS ステップアタック(Vega),2655531208,Special,AISヴェガ ステップ�
 AIS マルチロックミサイル(Vega),383210274,Special,AISヴェガ マルチロックミサイル
 AIS カウンターシールドチャージ(Vega),2640906853,Special,AISヴェガ カウンターシールドチャージ1
 AIS カウンターシールドチャージ(Vega),3968047485,Special,AISヴェガ カウンターシールドチャージ2
-AIS フォトンブラスター(Vega),1628689645,Special,AISヴェガ フォトンブラスター 
+AIS フォトンブラスター(Vega),1628689645,Special,"AISヴェガ フォトンブラスター "
 マナ速射砲,1913897098,Special,マナ速射砲
 ラコニウムソード,2235773608,Special,ラコニウムソード
 ラコニウムソード,2235773610,Special,ラコニウムソード
@@ -1384,9 +1384,9 @@ DBステアタ(ダブル),4134333680,Melee,Dark Blast (Double) Step Attack
 フラワーカーニバル,3593316716,Special,Flower Carnival attacks
 フラワーカーニバル,483639921,Special,Flower Carnival finish
 フラワーカーニバル,3113171853,Special,Flower Carnival attacks (2nd time)
-フラワーカーニバル,2157431709,Special,Flower Carnival finish (2nd time) 
-フラワーカーニバル,3660851541,Special,Flower Carnival attacks (3rd time) 
-フラワーカーニバル,3721426675,Special,Flower Carnival finish (3rd time) 
+フラワーカーニバル,2157431709,Special,"Flower Carnival finish (2nd time) "
+フラワーカーニバル,3660851541,Special,"Flower Carnival attacks (3rd time) "
+フラワーカーニバル,3721426675,Special,"Flower Carnival finish (3rd time) "
 クラッチステップ,472092093,Special,Clutch Step
 ファントムマーカー(カタナ),2907201045,,
 ファントムマーカー(カタナ),2907201492,,
@@ -1555,7 +1555,7 @@ S4:累加追撃,99411394,Special,S4:累加追撃(S級特殊能力)
 通常攻撃(Etウォンド),4018085752,Melee,Etoile Wand first normal attack
 通常攻撃(Etウォンド),4018085689,Melee,Etoile Wand second normal attack
 通常攻撃(Etウォンド),4018085882,Melee,Etoile Wand third normal attack
-ステアタ(Etウォンド),3968236707,Melee,Etoile Wand Step Attack 
+ステアタ(Etウォンド),3968236707,Melee,"Etoile Wand Step Attack "
 ウォンドギア,1295321598,Special,Etoile Wand Gear projectile (Et skill)
 ウォンドギア,3381519387,Special,Etoile Wand Gear 1st charge explosion (Et skill)
 ウォンドギア,3381519386,Special,Etoile Wand Gear 2nd charge first explosion (Et skill)
@@ -1581,3 +1581,19 @@ S4:累加追撃,99411394,Special,S4:累加追撃(S級特殊能力)
 白虎の掟,1989470535,Special,Byakko Accordant (Shiho Byakko) (Weapon Potential)
 縛魂の斬閃,895229155,Special,Soulbound Guillotine =100% HP (Corrupted Spear Epitemia) (Weapon Potential)
 縛魂の斬閃,2876421265,Special,Soulbound Guillotine <100% HP (Corrupted Spear Epitemia) (Weapon Potential)
+グラップルチャージ,1910262360,PA,Grapple Charge charge (grapple missed)
+フェイタルノックアウト,465516065,Special,Fatal Knockout first two hits
+フェイタルノックアウト,465515874,Special,Fatal Knockout final hit
+ミラージュショット,1226027508,Special,Mirage Shot 2nd attack in the combo (Ra skill)
+ミラージュショット,3074547700,Special,Mirage Shot 3rd attack in the combo (Ra skill)
+パニックショット,4206984394,Special,Panic Shot 2nd attack in the combo (Ra skill)
+パニックショット,2212135647,Special,Panic Shot 3rd attack in the combo (Ra skill)
+ジェルンショット,904883424,Special,Jellen Shot 2nd attack in the combo (Ra skill)
+ジェルンショット,3536788021,Special,Jellen Shot 3rd attack in the combo (Ra skill)
+カラミティバレット,1900182416,Special,Calamity Bullet hits
+カラミティバレット,1918289664,Special,Calamity Bullet final two hits
+黄金の聖紋,2248412976,Special,黄金の聖紋(フォルゴレウェベン) (Weapon Potential)
+長銃の光渦,3420584169,Special,長銃の光渦 (ヴォルテクスバイド)
+S5:反撃鋭刃,1868089408,Special,S5:反撃鋭刃 (S-Class Special Ability)
+S5:追射剛矢,4233010551,Special,S5:追射剛矢 (normal) (S-Class Special Ability)
+S5: Auxiliary Arrow,4233010550,Special,S5:追射剛矢 (after dodge) (S-Class Special Ability)
